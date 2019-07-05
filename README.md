@@ -1,1 +1,1 @@
-# Resource
+Some reference can be learned
